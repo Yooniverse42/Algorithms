@@ -1,1 +1,3 @@
-# Coding Test 100
+# Algorithm
+
+## Coding Test 100

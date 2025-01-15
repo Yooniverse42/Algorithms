@@ -2,5 +2,11 @@
 
 ## Coding Test 100
 
-- [1. 나머지 구하기](https://github.com/Yooniverse42/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1.%20%EB%82%98%EB%A8%B8%EC%A7%80%20%EA%B5%AC%ED%95%98%EA%B8%B0)
-- [2. 몫 구하기](https://github.com/Yooniverse42/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2.%20%EB%AA%AB%20%EA%B5%AC%ED%95%98%EA%B8%B0)
+- [1. 나머지 구하기](프로그래머스/1.나머지_구하기)
+- [2. 몫 구하기](프로그래머스/2.몫_구하기)
+- [3. 아이스 아메리카노](프로그래머스/3.아이스_아메리카노)
+- [4. 홀짝](프로그래머스/4.홀짝)
+- [5. 각도기](프로그래머스/5.각도기)
+- [6. n의 배수](프로그래머스/6.n의_배수)
+- [7. 공배수](프로그래머스/7.공배수)
+- [8. swap](프로그래머스/8.swap)

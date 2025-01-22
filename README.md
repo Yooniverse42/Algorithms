@@ -16,3 +16,5 @@
 - [12. 두 수의 연산값 비교하기](프로그래머스/12.두_수의_연산값_비교하기)
 - [13. 구구단](프로그래머스/13.구구단)
 - [14. Star pattern 1](프로그래머스/14.Star_pattern_1)
+- [15. Star pattern 2](프로그래머스/15.Star_pattern_2)
+- [16. Star pattern 3](프로그래머스/16.Star_pattern_3)

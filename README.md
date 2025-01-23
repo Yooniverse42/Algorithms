@@ -18,3 +18,5 @@
 - [14. Star pattern 1](프로그래머스/14.Star_pattern_1)
 - [15. Star pattern 2](프로그래머스/15.Star_pattern_2)
 - [16. Star pattern 3](프로그래머스/16.Star_pattern_3)
+- [17. Star pattern 4](프로그래머스/17.Star_pattern_4)
+- [18. Star pattern 5](프로그래머스/18.Star_pattern_5)

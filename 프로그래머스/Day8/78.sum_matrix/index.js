@@ -1,14 +1,25 @@
-const solution = (str, part) => {
-  const reversed = [...part].map((i) => (i === "A" ? "B" : "A")).join("");
-  return str.includes(reversed) ? 1 : 0;
-};
+const sumMatrix = (matrix) =>
+  matrix.map((i) => i.reduce((a, b) => a + b, 0)).reduce((c, d) => c + d, 0);
 
-console.log(solution("ABBAA", "AABB")); // 1
-console.log(solution("ABAB", "ABAB")); // 0
+console.log(
+  sumMatrix([
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9],
+  ])
+); // 45
+console.log(sumMatrix([])); // 0
+console.log(
+  sumMatrix([
+    [10, -10],
+    [20, 30],
+    [5, 5],
+  ])
+); // 60
 
-// Another Solution
-// function solution(str, pat) {
-//     pat = pat.replaceAll('A', 'X').replaceAll('B', 'A').replaceAll('X', 'B')
+// Another Solution 1
+// const sumMatrix = (matrix) =>
+//   matrix.reduce((sum, row) => sum + row.reduce((a, b) => a + b, 0), 0);
 
-//     return str.indexOf(pat) === -1 ? 0 : 1
-// }
+// Another Solution 2
+// const sumMatrix = matrix => matrix.flat().reduce((sum, num) => sum + num, 0);

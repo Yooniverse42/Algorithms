@@ -89,4 +89,6 @@
 - [85. sum of degits](프로그래머스/Day9/85.sum_of_degits)
 - [86. 약수 구하기](프로그래머스/Day9/86.약수_구하기)
 - [87. flat](프로그래머스/Day9/87.flat)
-- [88. deepReverse](프로그래머스/Day9/88.flat)
+- [88. deepReverse](프로그래머스/Day9/88.deepReverse)
+- [89. 모의고사](프로그래머스/Day9/89.모의고사)
+- [90. ruuning sum](프로그래머스/Day9/88.ruuning_sum)

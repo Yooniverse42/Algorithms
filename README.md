@@ -91,4 +91,6 @@
 - [87. flat](프로그래머스/Day9/87.flat)
 - [88. deepReverse](프로그래머스/Day9/88.deepReverse)
 - [89. 모의고사](프로그래머스/Day9/89.모의고사)
-- [90. ruuning sum](프로그래머스/Day9/88.ruuning_sum)
+- [90. ruuning sum](프로그래머스/Day9/90.ruuning_sum)
+- [91. 진료 순서 정하기](프로그래머스/Day10/91.진료_순서_정하기)
+- [92. 한 번만 등장한 문자](프로그래머스/Day10/92.한_번만_등장한_문자)
